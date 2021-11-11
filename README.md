@@ -8,7 +8,7 @@ Publishing package to github npm registry:
 # Usage
 Installing package:
 ```bash
-npm install @orbitaloyster/my-package
+npm install orbitaloyster/my-package
 ```
 
 # License
